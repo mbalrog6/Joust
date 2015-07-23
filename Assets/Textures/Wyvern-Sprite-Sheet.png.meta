@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 38a5fe6f6a426db4db9d003d95695145
+timeCreated: 1437122775
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wyvern-Sprite-Sheet_0
+    21300002: Wyvern-Sprite-Sheet_1
+    21300004: Wyvern-Sprite-Sheet_2
+    21300006: Wyvern-Sprite-Sheet_3
+    21300008: Wyvern-Sprite-Sheet_4
+    21300010: Wyvern-Sprite-Sheet_5
+    21300012: Wyvern-Sprite-Sheet_6
+    21300014: Wyvern-Sprite-Sheet_7
+    21300016: Wyvern-Sprite-Sheet_8
+    21300018: Wyvern-Sprite-Sheet_9
+    21300020: Wyvern-Sprite-Sheet_10
+    21300022: Wyvern-Sprite-Sheet_11
+    21300024: Wyvern-Sprite-Sheet_12
+    21300026: Wyvern-Sprite-Sheet_13
+    21300028: Wyvern-Sprite-Sheet_14
+    21300030: Wyvern-Sprite-Sheet_15
+    21300032: Wyvern-Sprite-Sheet_16
+    21300034: Wyvern-Sprite-Sheet_17
+    21300036: Wyvern-Sprite-Sheet_18
+    21300038: Wyvern-Sprite-Sheet_19
+    21300040: Wyvern-Sprite-Sheet_20
+    21300042: Wyvern-Sprite-Sheet_21
+    21300044: Wyvern-Sprite-Sheet_22
+    21300046: Wyvern-Sprite-Sheet_23
+    21300048: Wyvern-Sprite-Sheet_24
+    21300050: Wyvern-Sprite-Sheet_25
+    21300052: Wyvern-Sprite-Sheet_26
+    21300054: Wyvern-Sprite-Sheet_27
+    21300056: Wyvern-Sprite-Sheet_28
+    21300058: Wyvern-Sprite-Sheet_29
+    21300060: Wyvern-Sprite-Sheet_30
+    21300062: Wyvern-Sprite-Sheet_31
+    21300064: Wyvern-Sprite-Sheet_32
+    21300066: Wyvern-Sprite-Sheet_33
+    21300068: Wyvern-Sprite-Sheet_34
+    21300070: Wyvern-Sprite-Sheet_35
+    21300072: Wyvern-Sprite-Sheet_36
+    21300074: Wyvern-Sprite-Sheet_37
+    21300076: Wyvern-Sprite-Sheet_38
+    21300078: Wyvern-Sprite-Sheet_39
+    21300080: Wyvern-Sprite-Sheet_42
+    21300082: Wyvern-Sprite-Sheet_43
+    21300084: Wyvern-Sprite-Sheet_44
+    21300086: Wyvern-Sprite-Sheet_45
+    21300088: Wyvern-Sprite-Sheet_46
+    21300090: Wyvern-Sprite-Sheet_47
+    21300092: Wyvern-Sprite-Sheet_48
+    21300094: Wyvern-Sprite-Sheet_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wyvern-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1184
+        width: 100
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1178
+        width: 111
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1189
+        width: 128
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1173
+        width: 118
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1168
+        width: 104
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1202
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1196
+        width: 105
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1184
+        width: 100
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 974
+        width: 153
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 972
+        width: 158
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 975
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 969
+        width: 170
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 969
+        width: 143
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 995
+        width: 157
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 990
+        width: 153
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 976
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 747
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 741
+        width: 102
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 808
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 736
+        width: 106
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 732
+        width: 110
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 764
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 757
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 746
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 508
+        width: 155
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 507
+        width: 152
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 510
+        width: 162
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 505
+        width: 153
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 503
+        width: 133
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 530
+        width: 158
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 525
+        width: 157
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 511
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 226
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 192
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 226
+        width: 175
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 249
+        width: 227
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 250
+        width: 221
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 259
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 268
+        width: 116
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 268
+        width: 100
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 100
+        height: 151
+      alignment: 9
+      pivot: {x: .204690635, y: .488020539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 196
+        height: 180
+      alignment: 9
+      pivot: {x: .331012487, y: .537572026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 15
+        width: 186
+        height: 202
+      alignment: 9
+      pivot: {x: .305134267, y: .483622789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 30
+        width: 229
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 21
+        width: 224
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 17
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 11
+        width: 126
+        height: 154
+      alignment: 9
+      pivot: {x: .598382831, y: .522997797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wyvern-Sprite-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 9
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
